@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No: 212225230139
-# Name: KIRIT LULLA
-# Date: 18.05.2026
+# Reg No: 212225240027
+# Name: CASSANDRA SUZANNE F
+# Date: 25.05.2026
 
 
 # AIM:
